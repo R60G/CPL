@@ -9,7 +9,7 @@ import io
 import matplotlib.cm as cm
 
 st.set_page_config(page_title="Clustering CPL-PL", layout="wide")
-st.title("Analisis Clustering CPL & PL berdasarkan Nilai A Mahasiswa")
+st.title("Pengembangan Sistem Rekomendasi Profesi berdasarkan Capaian Mata Kuliah di Program Studi Teknik Informatika UNIKOM")
 
 uploaded_file = st.file_uploader("Unggah file Excel", type=["xlsx"])
 
